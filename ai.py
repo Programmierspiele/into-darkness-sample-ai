@@ -1,8 +1,6 @@
 import socket
 import json
-import random
 import sys
-import time
 
 
 class AI(object):
